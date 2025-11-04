@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Marwan Qashwa and I'm a Mobile Developer </h2>
+<h2 align="left">Hi👋!  My name is Marwan Qashwa and I'm a Mobile Developer </h2>
 
 ###
 
